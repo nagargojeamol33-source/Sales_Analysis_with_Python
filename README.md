@@ -1,8 +1,14 @@
+PROBLEM STATATMENT :  
+     In any business, sales data is the most critical asset for growth.
+     However, raw data alone cannot drive decisions. This project focuses on analyzing 
+     transaction records to identify patterns, evaluate business health, and find opportunities for
+     revenue optimization
+OVERVIEW : 
 This project focuses on performing Exploratory Data Analysis (EDA) on a retail sales dataset using Python.
 The goal is to transform raw transactional data into actionable business insights, identifying key revenue drivers, seasonal trends, 
 and high-performing product categories to support data-driven decision-making
 
- TECHNICAL
+ TECHNICAL Stack : 
 
 Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
