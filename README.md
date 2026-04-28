@@ -17,7 +17,8 @@ Environment: VS Code
  CORE OPERATIONS PERFOMED
  
 Data Cleaning:
-Removed null values, corrected data types, and handled outliers to ensure data integrity.
+Removed null values, corrected data types, and handled outliers to ensure data integrity.                                                                                         
+
 Exploratory Data Analysis (EDA):
 Performed group-by operations to find the most profitable products and regions.
 Feature Engineering:
